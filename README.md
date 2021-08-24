@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://linkedin.com/in/carpanese"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-512.png" height="32px" width="32px"></href></a> 
+  <a href="https://twitter.com/igorcarpanese"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="32px" width="32px"></href></a>
+  <a href="https://medium.com/carpanese"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" height="32px" width="32px"></href></a>
+</p>
 
-<!--
-**igorcarpanese/igorcarpanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst and technical lead. I work as a government spend analysis and fraud detection consultant, currently at the World Bank and previously on the International Monetary Fund. I sometimes write about algorithms and data structures on [Medium](https://medium.com/carpanese).
 
-Here are some ideas to get you started:
+### Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [A decision support system for fraud detection in public procurement](https://doi.org/10.1111/itor.12811)</sub>
+
+### Blog posts
+
+* [A Visual Introduction to Fenwick Tree](https://medium.com/carpanese/a-visual-introduction-to-fenwick-tree-89b82cac5b3c)
+* [A Visual Introduction to Treap Data Structure (Part I: The Basics)](https://medium.com/carpanese/a-visual-introduction-to-treap-data-structure-part-1-6196d6cc12ee)
+* [A Visual Introduction to Centroid Decomposition](https://medium.com/carpanese/an-illustrated-introduction-to-centroid-decomposition-8c1989d53308)
