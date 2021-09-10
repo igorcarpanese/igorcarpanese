@@ -4,7 +4,7 @@
   <a href="https://medium.com/carpanese"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" height="32px" width="32px"></href></a>
 </p>
 
-I am a software engineer and technical lead. I work as a government spend analysis and fraud detection consultant, currently at the World Bank and previously on the International Monetary Fund. I sometimes write about algorithms and data structures on [Medium](https://medium.com/carpanese).
+I am a software engineer and tech lead, working as a government spend analysis and fraud detection consultant at the World Bank. I sometimes write about algorithms and data structures on [Medium](https://medium.com/carpanese).
 
 ### Publications
 
