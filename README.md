@@ -6,6 +6,14 @@
 
 I am a software engineer and tech lead, working as a government spend analysis and fraud detection consultant at the World Bank. I sometimes write about algorithms and data structures on [Medium](https://medium.com/carpanese).
 
+### About
+
+🎓 Computer Science @ Universidade Federal do Rio de Janeiro
+
+🎈 2018 ICPC World Finalist
+
+🌐 Cryptocurrency enthusiast
+
 ### Publications
 
 * [A decision support system for fraud detection in public procurement](https://doi.org/10.1111/itor.12811)</sub>
