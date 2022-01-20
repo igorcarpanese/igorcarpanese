@@ -10,7 +10,7 @@ I am a software engineer and tech lead, working as a government spend analysis a
 
 - 🎓 Computer Science @ Universidade Federal do Rio de Janeiro
 - 🎈 2018 ICPC World Finalist
-- 🌎 Cryptocurrency enthusiast
+- 🌎 Bitcoin enthusiast
 
 ### Publications
 
