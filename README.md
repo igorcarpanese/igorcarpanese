@@ -8,7 +8,7 @@ I am sometimes a software engineer, sometimes a data scientist, working at the W
 
 ### About
 
-- 🎓 Computer Science @ Universidade Federal of Rio de Janeiro
+- 🎓 Computer Science @ Universidade Federal do Rio de Janeiro
 - 🎈 2018 ICPC World Finalist
 - 🇯🇵 日本語を勉強しています
 - 🌎 Bitcoin enthusiast
