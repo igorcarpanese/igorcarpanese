@@ -4,8 +4,6 @@
   <a href="https://medium.com/carpanese"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" height="32px" width="32px"></href></a>
 </p>
 
-I am sometimes a software engineer, sometimes a data scientist, working at the World Bank on the spend analysis and fraud detection field.
-
 ### About
 
 - 🎓 Computer Science @ Universidade Federal do Rio de Janeiro
