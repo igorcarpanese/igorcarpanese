@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://linkedin.com/in/carpanese"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-512.png" height="32px" width="32px"></href></a> 
-  <a href="https://twitter.com/igorcarpanese"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="32px" width="32px"></href></a>
-  <a href="https://medium.com/carpanese"><img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" height="32px" width="32px"></href></a>
-</p>
-
 ### About
 
 - 🎓 Computer Science @ Universidade Federal do Rio de Janeiro
